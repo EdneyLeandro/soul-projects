@@ -1,0 +1,18 @@
+@charset "UTF-8";
+    
+h1#principal{
+    font: normal bold 4em Roboto;
+        color: rgb(255, 255, 255);
+        background-image: linear-gradient(to right, rgb(113, 113, 247), #fff);
+        }
+    h1{
+        font: normal bold 3em Roboto;
+        color: rgb(102, 100, 100);
+        }
+    h2{
+        font: normal bold 2em Roboto;
+    }
+    p{  
+        text-align: center;
+        font: normal normal 1em Roboto
+    }
